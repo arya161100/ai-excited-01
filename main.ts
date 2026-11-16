@@ -1,0 +1,1 @@
+$(cat /workspace/artifacts/ai-excited/main.ts)
